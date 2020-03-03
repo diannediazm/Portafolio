@@ -1,0 +1,61 @@
+.navbar-brand {
+  font-family: Patua One;
+  font-size: 30px;
+}
+
+#navbarNav {
+  justify-content: flex-end;
+}
+
+.foto-inicio {
+  position: relative;
+}
+
+.texto-inicio {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  font-family: Patua One;
+}
+
+.saludo {
+  font-family: Heebo;
+}
+
+.cv-dianne {
+  font-family: Dosis;
+  color: #464646;
+  font-size: 20px;
+}
+
+.cv {
+  margin: auto;
+}
+
+.experiencia {
+  font-family: Patua One;
+  color: #464646;
+}
+
+.trabajos {
+  color: white;
+  font-family: Patua One;
+  text-align: center;
+}
+
+.contacto {
+  font-family: Patua One;
+  color: #464646;
+}
+
+.footer {
+  font-family: Patua One;
+}
+
+.iconos-footer {
+  text-align: end;
+}
+
+.iconos-footer a {
+  color: white;
+}
