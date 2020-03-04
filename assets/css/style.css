@@ -63,3 +63,30 @@
 .bg-info {
   border: 0px;
 }
+
+@media (max-width: 600px) {
+  body {
+    text-align: center;
+  }
+  .foto-inicio {
+    margin-top: 60px;
+  }
+
+  .texto-inicio {
+    top: 36%;
+    left: 14%;
+  }
+
+  .dianne-diaz {
+    font-size: 35px;
+  }
+
+  .mi-experiencia {
+    font-size: 35px;
+  }
+  .iconos-footer {
+    text-align: center;
+  }
+
+
+}
