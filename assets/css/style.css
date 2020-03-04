@@ -95,14 +95,3 @@
     text-align: center;
   }
 }
-
-@media (max-width: 360px) {
-
-  .texto-inicio {
-    top: 20%
-  }
-  .mi-experiencia {
-    padding-top: 10px;
-  }
-
-}
