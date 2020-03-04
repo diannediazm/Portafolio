@@ -26,6 +26,7 @@
   font-family: Dosis;
   color: #464646;
   font-size: 20px;
+  padding-top: 40px;
 }
 
 .cv {
@@ -37,15 +38,24 @@
   color: #464646;
 }
 
+.mi-experiencia {
+  padding-top: 50px;
+}
+
 .trabajos {
   color: white;
   font-family: Patua One;
   text-align: center;
+  margin-top: 30px;
 }
 
 .contacto {
   font-family: Patua One;
   color: #464646;
+}
+
+.contacto-dianne {
+  padding-top: 50px;
 }
 
 .footer {
@@ -71,22 +81,17 @@
   .foto-inicio {
     margin-top: 60px;
   }
-
   .texto-inicio {
     top: 36%;
     left: 14%;
   }
-
   .dianne-diaz {
     font-size: 35px;
   }
-
   .mi-experiencia {
     font-size: 35px;
   }
   .iconos-footer {
     text-align: center;
   }
-
-
 }
